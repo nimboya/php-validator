@@ -13,6 +13,10 @@ textvalid() - Used to Validate usernames and textinputs for spaces
   $uvalu is the value you want to validate
 	$errmsg is the error message you want to return
 
+For Complaints or Comments
+Phone: 08066194746
+Email: boya360@yahoo.com
+
 */
 
 class validator
